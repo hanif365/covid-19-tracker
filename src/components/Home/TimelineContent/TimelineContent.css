@@ -1,0 +1,9 @@
+.timeline-content-card{
+    width: 23rem;
+}
+.hr{
+    border: 1px solid red;
+    display: block;
+    width: 50%;
+    /* margin: auto; */
+}
